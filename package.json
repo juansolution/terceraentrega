@@ -1,7 +1,7 @@
 {
   "name": "basetercersemana",
   "version": "1.0.0",
-  "description": "",
+  "description": "proyecto base tercera entrega",
   "main": "src/app.js",
   "dependencies": {
     "body-parser": "^1.18.3",
@@ -13,8 +13,16 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "nodemon src/app.js"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "j Piedrahita",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juansolution/terceraentrega.git"
+  },
+  "bugs": {
+    "url": "https://github.com/juansolution/terceraentrega/issues"
+  },
+  "homepage": "https://github.com/juansolution/terceraentrega#readme"
 }
